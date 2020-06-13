@@ -1,0 +1,6 @@
+{
+  "mongoURI": "mongodb://mongo:27017/docker-node-mongo",
+  "jwtsecret": "mysecrettoken",
+  "githubClientId": "ee50c9d9d236f9f64148",
+  "githubSecret": "d605caf7439cb34c8148ce45987f30783270bf91"
+}
